@@ -5,4 +5,5 @@ juices ,smoothhies,breakfast wraps and sandwiches  and other stuff like
 water bottles,chocolate bars.Moreover, customers can customize their 
 smoothies as per their requirement.Apart from this, nutrition guide will
 be provided to the customers.Also,Users will be able to view the page in
-their own preffered language.
+their own preffered language.Moreover,user can share their experience 
+with other users.
