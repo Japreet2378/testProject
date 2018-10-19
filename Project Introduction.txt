@@ -1,0 +1,7 @@
+My project is on creating a smoothie ordering app called"Jugo Juice".
+This app will allow the customers to order beforehand and can pick 
+their smoothies or juices at the nearby store.This app will be selling
+juices ,smoothhies,breakfast wraps and sandwiches  and other stuff like
+water bottles,chocolate bars.Moreover, customers can customize their 
+smoothies as per their requirement.Apart from this, nutrition guide will
+be provided to the customers.
